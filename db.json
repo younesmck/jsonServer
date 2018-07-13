@@ -1,7 +1,7 @@
 {
   "subscriptions": [
-    { "id": 1, "police": "POL001", "type": "eau", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978", "lastConsumption": "432", "subscriptionDate": "2011-03-09", "deposit":"3000", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur"},
-    { "id": 2, "police": "POL002", "type": "eau", "state": "actif", "address": "add1", "lastBill": "471", "nextBill": "683", "lastConsumption": "109", "subscriptionDate": "2007-12-23", "deposit":"0", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur" },
-    { "id": 3, "police": "POL003", "type": "electricite", "state": "actif", "address": "add1", "lastBill": "2541", "nextBill": "2213", "lastConsumption": "1632", "subscriptionDate": "2017-01-05", "deposit":"250", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur" }
+    { "id": 1, "police": "POL001", "type": "eau", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978", "lastConsumption": "432", "subscriptionDate": "2011-03-09", "deposit":"3000", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur", "lastIndex":{"meterNumber":"111111", "date": "2018-07-01", "index": "3425"}, "lastBill":{"amount":"1043", "date": "2018-07-01", "consumption": "432"}},
+    { "id": 2, "police": "POL002", "type": "eau", "state": "actif", "address": "add1", "lastBill": "471", "nextBill": "683", "lastConsumption": "109", "subscriptionDate": "2007-12-23", "deposit":"0", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur", "lastIndex":{"meterNumber":"222222", "date": "2018-07-01", "index": "4123"}, "lastBill":{"amount":"471", "date": "2018-07-01", "consumption": "109"} },
+    { "id": 3, "police": "POL003", "type": "electricite", "state": "actif", "address": "add1", "lastBill": "2541", "nextBill": "2213", "lastConsumption": "1632", "subscriptionDate": "2017-01-05", "deposit":"250", "cost":"Usage domestique", "calibre": "15", "paimentMethod": "Encaisseur", "lastIndex":{"meterNumber":"333333", "date": "2018-07-01", "index": "2431"}, "lastBill":{"amount":"2541", "date": "2018-07-01", "consumption": "1632"} }
   ]
 }
