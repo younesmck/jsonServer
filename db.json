@@ -1,7 +1,7 @@
 {
   "subscriptions": [
-    { "id": 1, "police": "POL001", "type": "eau", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978"},
-    { "id": 2, "police": "POL002", "type": "eau", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978" },
-    { "id": 3, "police": "POL003", "type": "electricite", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978" }
+    { "id": 1, "police": "POL001", "type": "eau", "state": "actif", "address": "add1", "lastBill": "1043", "nextBill": "978", "lastConsumption": "432"},
+    { "id": 2, "police": "POL002", "type": "eau", "state": "actif", "address": "add1", "lastBill": "471", "nextBill": "683", "lastConsumption": "109" },
+    { "id": 3, "police": "POL003", "type": "electricite", "state": "actif", "address": "add1", "lastBill": "2541", "nextBill": "2213", "lastConsumption": "1632" }
   ]
 }
